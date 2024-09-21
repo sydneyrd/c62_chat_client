@@ -1,3 +1,8 @@
+# Bug fixing chat building practice template <3
+
+This is a template that doesn't *quite* work right, created as a practice exercise for students at NSS.   You'll need to write the server from scratch, utilize a chat api and fix the client.    It was a lot of fun to work on with students, and if you feel like practicing feel free to take this.   Holla if you need help :)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
